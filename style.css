@@ -1,0 +1,40 @@
+#background-img {
+    background-image: url("https://instagram.fsin8-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/125981680_651716878854751_366223660447857261_n.jpg?_nc_ht=instagram.fsin8-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=6NbV9O0D7NEAX-C99vQ&tp=1&oh=a36feda66eb308ffd7cc54efc1b9245b&oe=5FE33503");
+    color: gold;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 70vw;
+}
+
+body {
+    margin: 0;
+}
+
+.remove-margin {
+    margin: 0;
+}
+
+h1 {
+    padding: 10vh 5vw 0 5vw;
+    font-size: 60px;
+}
+
+#background-red {
+    background-color: #BE3D3D;
+}
+
+.gold {
+    color: gold;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#opening {
+    display: flex;
+    flex-direction: row;
+}
