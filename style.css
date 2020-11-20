@@ -5,7 +5,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 90vh;
+    height: 92vh;
     width: 70vw;
 }
 
@@ -18,23 +18,93 @@ body {
 }
 
 h1 {
-    padding: 10vh 5vw 0 5vw;
-    font-size: 60px;
+    padding: 10vh 15vw 0 15vw;
+    font-size: 80px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
 }
 
 #background-red {
     background-color: #BE3D3D;
+    text-align: center;
+    height: 92vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
 }
 
-.gold {
+.gold-text {
     color: gold;
+    margin: 0;
+    padding-top: 10vh;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-style: italic;
 }
 
 h3 {
     font-size: 25px;
+    font-style: italic;
 }
 
 #opening {
     display: flex;
     flex-direction: row;
+}
+
+#intro-para {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+    align-items: center;
+    padding: 5vh 3vw 0 3vw;
+}
+
+#motto {
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+    align-items: flex-end;
+    margin: 0;
+    padding: 5vh 3vw 5vh 3vw;
+}
+
+#navigation-bar {
+    background-color: #676767;
+}
+
+#nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 3vh 0 3vh 0;
+}
+
+.nav-tag {
+    display: inline;
+    border-right: 1px solid #bbb;
+}
+
+.nav-tag:last-child {
+    border-right: none;
+  }
+
+.nav-tag a {
+    text-decoration: none;
+    color: white;
+    padding: 0 4vw 0 4vw;
+    font-size: 20px;
+}
+
+.nav-tag a:hover {
+    color: gold;
+  }
+
+.nav-tag a:active {
+    color: black;
+  }
+
+#about-BMB {
+    background-color: #32312D;
 }
