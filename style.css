@@ -112,7 +112,7 @@ h3 {
 .white-headings {
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    padding: 1vh 0 1vh 2vw; 
+    padding: 5vh 0 2vh 2vw; 
 }
 
 figcaption {
@@ -139,4 +139,13 @@ figure {
 
 .image {
     max-width: 100%;
+}
+
+#achievements {
+    background-color: #32312D;
+}
+
+.white-text {
+    color: white;
+    font-size: 20px;
 }
