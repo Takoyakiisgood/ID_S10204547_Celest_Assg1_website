@@ -58,7 +58,7 @@ h3 {
 
 #intro-para {
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     align-items: center;
     padding: 5vh 3vw 0 3vw;
 }
@@ -107,4 +107,36 @@ h3 {
 
 #about-BMB {
     background-color: #32312D;
+}
+
+.white-headings {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 1vh 0 1vh 2vw; 
+}
+
+figcaption {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+#section-imgs {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+figure {
+    padding: 2%;
+    flex-grow: 2;
+    flex-basis: 15%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.image {
+    max-width: 100%;
 }
