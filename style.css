@@ -147,5 +147,29 @@ figure {
 
 .white-text {
     color: white;
-    font-size: 20px;
+    font-size: 25px;
+    padding: 2vh 0 3vh 0;
+    line-height: 5vh;
+}
+
+#achievements-content {
+    display: flex;
+    width: 97%;
+    flex-direction: row;
+}
+
+#achievements-imgs {
+    display: flex;
+    flex-direction: column;
+}
+
+#achievements-text {
+    padding: 0 3vw 0 3vw;
+    width: 60vw;
+}
+
+.achvmt-img {
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 3vh;
 }
