@@ -7,7 +7,7 @@ One or two paragraphs providing an overview of your project. Tell us about your 
 
 Essentially, this part is your sales pitch.
 
->My project is about promoting Bowen Military Band. The website features faeatures the different sections in the band, some of the performances done by the band, and lastly the band's social media pages
+>My project is about promoting Bowen Military Band. The website features faeatures the different sections in the band, some of the performances done by the band, and lastly the band's social media pages. The webpage aims to draw in fans and potential fans to learn about the hisstory of the band, get to know the band members so to to expand the fanbase of the band. 
 
 Design Process
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
