@@ -136,8 +136,8 @@
                 <figcaption class="social-text">@BowenMilitaryBand</figcaption>
             </figure>
         </div>
-        <div id="form">
-            <ul style="list-style: none;" id="form">
+        <form id="form" class="remove-margin">
+            <ul style="list-style: none;" id="form" class="remove-margin">
                 <li class="questions"><label for="name">Name*
                     <input class="form-textbox" type="text" placeholder="Enter your first name" name="name" class="textbox" required>
                 </label></li>
@@ -149,10 +149,10 @@
                 </label></li>
                 <li class="questions"><label for="comment">Comment*
                     <textarea id=comment name="comment" placeholder="Enter your questions for us here..."></textarea>
+                    <button type="submit" id="submit">Submit</button>
                 </label></li>
-                <button type="submit" id="submit">Submit</button>
             </ul>
-        </div>
+        </form>
     </div>
 </body>
 </html>

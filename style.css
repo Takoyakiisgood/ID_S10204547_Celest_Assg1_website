@@ -9,6 +9,11 @@
     width: 70vw;
 }
 
+html{
+    scroll-behavior: smooth;
+    transition-timing-function: ease-in-out 3s;
+}
+
 body {
     margin: 0;
 }
@@ -273,7 +278,7 @@ label {
     width: 50%;
     resize: vertical;
     height: 80px;
-    margin: 0 0 0 12px;
+    margin: 0 12px 0 12px;
 }
 
 ::placeholder {
@@ -286,4 +291,229 @@ label {
 
 #form {
     padding-bottom: 2vh;
+}
+
+@media(max-width: 1328px) {
+
+    h1 {
+        font-size: 50px;
+    }
+
+    #motto {
+        font-size: 30px;
+    }
+
+    #background-img {
+        height: 80vh;
+        width: 70vw;
+    }
+
+    #background-red {
+        height: 80vh;
+        width: 30vw;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #intro-para {
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-size: 18px;
+        align-items: center;
+        padding: 5vh 3vw 0 3vw;
+    }
+}
+
+@media(max-width: 1000px) {
+
+    h1 {
+        font-size: 30px;
+    }
+
+    #motto {
+        font-size: 40px;
+        padding: 5vh 3vw 5vh 3vw;
+    }
+
+    #background-img {
+        height: 60vh;
+        width: 100%;
+    }
+
+    #background-red {
+        height: 50vh;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #opening {
+        display: flex;
+        flex-direction: column;
+    }
+
+    h2 {
+        font-size: 45px;
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-style: italic;
+    }
+
+    .gold-text {
+        padding-top: 2vh;
+    }
+
+    .achvmt-img {
+        max-width: 100%;
+        height: auto;
+        padding: 0 50px 10px 50px;
+    }
+
+    .white-text {
+        color: white;
+        padding: 2vh 0 3vh 0;
+        width: 90vw;
+    }
+
+    #achievements-content {
+        display: flex;
+        width: 97%;
+        flex-direction: column;
+    }
+
+    #social-media {
+        flex-wrap: nowrap;
+    }
+
+    #social-media figure {
+        padding: 0 2vw 5vh 0;
+    }
+
+    .fa {
+        padding: 20px;
+        font-size: 20px;
+        width: 20px;
+        height: 20px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+    }
+
+    .social-text {
+        color: white;
+        padding: 2vh 0 1vh 1vw;
+        font-size: 20px;
+      }
+    
+      #submit {
+        width: 8vw;
+    }
+
+    .form-textbox {
+        width: 30vw;
+    }
+    
+    #contact-no {
+        width: 30vw;
+    }
+    
+}
+
+@media(max-width: 460px) {
+    #motto {
+        font-size: 30px;
+        padding: 3vh 3vw 5vh 3vw;
+    }
+
+    .nav-tag a {
+        padding: 0 4vw 0 4vw;
+        font-size: 15px;
+    }
+
+    #section-imgs {
+        display: flex;
+        width: 100%;
+    }
+
+    #section-imgs figure {
+        flex-basis: 100%;
+    }
+
+    .white-headings {
+        padding: 5vh 0 2vh 2vw;
+        font-size: 30px;
+    }
+
+    .white-text {
+        color: white;
+        font-size: 15px;
+        padding: 2vh 0 3vh 0;
+        line-height: 2vh;
+        width: 90vw;
+    }
+
+    .achvmt-img {
+        max-width: 100%;
+        height: auto;
+        padding: 0 0 10px 10px;
+    }
+
+    #achievements-content {
+        display: flex;
+        width: 97%;
+        flex-direction: column;
+    }
+
+    .contact-text {
+        color: white;
+        padding: 2vh 0 2vh 2vw;
+        font-size: 18px;
+    }
+
+    #social-media {
+        flex-wrap: nowrap;
+    }
+
+    #social-media figure {
+        padding: 0 2vw 5vh 0;
+    }
+
+    .fa {
+        padding: 10px;
+        font-size: 10px;
+        width: 10px;
+        height: 15px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+    }
+
+    .social-text {
+        color: white;
+        padding: 2vh 0 1vh 1vw;
+        font-size: 8px;
+      }
+
+      label {
+        color: white;
+        font-size: 15px;
+    }
+
+    .form-textbox {
+        width: 40vw;
+        height: 2vh;
+        margin: 0 0 0 50px;
+    }
+
+    ::placeholder {
+        font-size: 12px;
+    }
+    
+    #contact-no {
+        margin: 0 0 0 20px !important;
+        width: 40vw;
+        height: 2vh;
+    }
+    
+    #submit {
+        width: 15vw;
+    }
 }
