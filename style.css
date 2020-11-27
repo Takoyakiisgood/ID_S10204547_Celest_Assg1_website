@@ -262,7 +262,7 @@ label {
     font-size: 22px;
 }
 
-#contact-no {
+#contact {
     margin: 0 0 0 8px !important;
     width: 20vw;
     height: 3vh;
@@ -411,7 +411,7 @@ label {
         width: 30vw;
     }
     
-    #contact-no {
+    #contact {
         width: 30vw;
     }
     
@@ -507,7 +507,7 @@ label {
         font-size: 12px;
     }
     
-    #contact-no {
+    #contact {
         margin: 0 0 0 20px !important;
         width: 40vw;
         height: 2vh;
