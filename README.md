@@ -64,6 +64,22 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+>Navigation Tab:
+-Go to navigation tab
+-Click on section to view
+-page automatically navigates down to the section user wants to view.
+>Contact form:
+-Go to the "Contact Us" page
+-Try to submit the empty form and verify that an error message about the required fields appears
+-Try to submit the form with an invalid email address and verify that a relevant error message appears
+-Try to submit the form with all inputs valid and verify that a success message appears.
+-The success message appears although form is not filled, however there'll be an error message as the field form has to be filled, this was because i applied "on-click" to the submit button.
+>Social Media Webpage:
+-Try clicking on the various social media icons
+-Social media page opens up in a new tab so that user can view the social media pages without losing the original webpage.
+>Responsive Layout:
+-The responsive layout transition is not as smooth as what i expected it to be: transition between different screen sizes using the inspect tool on chrome.
+
 Credits
 Content
 The text for section Y was copied from the Wikipedia article Z
