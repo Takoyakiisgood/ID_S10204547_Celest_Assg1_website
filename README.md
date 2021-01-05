@@ -11,17 +11,17 @@ As a fan or potential fan, I who wish to learn more about the band's history and
 <br>wireframe: https://xd.adobe.com/view/cc962385-1295-42d1-8f5a-3fcfaa27bf14-99c5/
 
 <h2>Features</h2>
-<li>Navigating bar - allows visitors of the webpage to navigate around the webpage.</li>
-<li>Form - allows fans/possible fans to enquire their doubts by submitting their name, email and questions in the form. They can try and book a show through the form as well.</li>
-<li>Youtube Video - allows fans/visitors to play the video on the webpage to view 1 of the band's performance.</li>
-<li>Social media icons - Allows fans/visitors to click on the social media icons to visit the various social media pages of the band.</li>
+<li>Navigating bar: allows visitors of the webpage to navigate around the webpage.</li>
+<li>Form: allows fans/possible fans to enquire their doubts by submitting their name, email and questions in the form. They can try and book a show through the form as well.</li>
+<li>Youtube Video: allows fans/visitors to play the video on the webpage to view 1 of the band's performance.</li>
+<li>Social media icons: Allows fans/visitors to click on the social media icons to visit the various social media pages of the band.</li>
 
 <h2>Features Left to Implement</h2>
 
-Slideshow of Images - I can possibly add a slideshow of pictures taken during the band's various performances.
+Slideshow of Images: I can possibly add a slideshow of pictures taken during the band's various performances.
 
 <h2>Technologies Used</h2>
-<h3>Google font:-</h3>
+<h3>Google font</h3>
 https://fonts.gstatic.com<br>
 https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Satisfy&display=swap
 <h3>Social Media Icons</h3>
@@ -43,7 +43,7 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.c
 <li>Social Media Webpage:
 <br>-Try clicking on the various social media icons
 <br>-Social media page opens up in a new tab so that user can view the social media pages without losing the original webpage.
-<br>Responsive Layout:
+<li>Responsive Layout:
 <br>-The responsive layout transition is not as smooth as what i expected it to be: transition between different screen sizes using the inspect tool on chrome.</li>
 
 <h2>Credits</h2>
