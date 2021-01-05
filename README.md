@@ -11,10 +11,10 @@ As a fan or potential fan, I who wish to learn more about the band's history and
 <br>wireframe: https://xd.adobe.com/view/cc962385-1295-42d1-8f5a-3fcfaa27bf14-99c5/
 
 <h2>Features</h2>
-<li>Navigating bar - allows visitors of the webpage to navigate around the webpage.</li>
-<li>Form - allows fans/possible fans to enquire their doubts by submitting their name, email and questions in the form. They can try and book a show through the form as well.</li>
-<li>Youtube Video - allows fans/visitors to play the video on the webpage to view 1 of the band's performance.</li>
-<li>Social media icons - Allows fans/visitors to click on the social media icons to visit the various social media pages of the band.</li>
+Navigating bar - allows visitors of the webpage to navigate around the webpage.
+<br>Form - allows fans/possible fans to enquire their doubts by submitting their name, email and questions in the form. They can try and book a show through the form as well.
+<br>Youtube Video - allows fans/visitors to play the video on the webpage to view 1 of the band's performance.
+<br>Social media icons - Allows fans/visitors to click on the social media icons to visit the various social media pages of the band.
 
 </h2>Features Left to Implement</h2>
 
@@ -22,34 +22,34 @@ Slideshow of Images - I can possibly add a slideshow of pictures taken during th
 
 <h2>Technologies Used</h2>
 <h3>Google font:-</h3>
-<li>https://fonts.gstatic.com<li>
-<li>https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Satisfy&display=swap</li>
+https://fonts.gstatic.com<br>
+https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Satisfy&display=swap
 <h3>Social Media Icons</h3>
-<li>https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css</li>
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
 
 <h2>Testing</h2>
-<li>Navigation Tab:
--Go to navigation tab
--Click on section to view
--page automatically navigates down to the section user wants to view.</li>
-<li>Contact form:
--Go to the "Contact Us" page
--Try to submit the empty form and verify that an error message about the required fields appears
--Try to submit the form with an invalid email address and verify that a relevant error message appears
--Try to submit the form with all inputs valid and verify that a success message appears.
--The success message appears although form is not filled, however there'll be an error message as the field form has to be filled, this was because i applied "on-click" to the submit button.</li>
-<li>Social Media Webpage:
--Try clicking on the various social media icons
--Social media page opens up in a new tab so that user can view the social media pages without losing the original webpage.</li>
-<li>Responsive Layout:
--The responsive layout transition is not as smooth as what i expected it to be: transition between different screen sizes using the inspect tool on chrome.</li>
+Navigation Tab:
+<br>-Go to navigation tab
+<br>-Click on section to view
+<br>-page automatically navigates down to the section user wants to view.
+<br>Contact form:
+<br>-Go to the "Contact Us" page
+<br>-Try to submit the empty form and verify that an error message about the required fields appears
+<br>-Try to submit the form with an invalid email address and verify that a relevant error message appears
+<br>-Try to submit the form with all inputs valid and verify that a success message appears.
+<br>-The success message appears although form is not filled, however there'll be an error message as the field form has to be filled, this was because i applied "on-click" to the submit button.
+<br>Social Media Webpage:
+<br>-Try clicking on the various social media icons
+<br>-Social media page opens up in a new tab so that user can view the social media pages without losing the original webpage.
+<br>Responsive Layout:
+<br>-The responsive layout transition is not as smooth as what i expected it to be: transition between different screen sizes using the inspect tool on chrome.
 
 <h2>Credits</h2>
 The text in #opening and #achievements section was copied,and modified, from https://bowensecband.wordpress.com/about/
 
 <h2>Media</h2>
-<li>Some of the photos used in this site were obtained from Bowen Military Band's instagram pages.</li>
-<li>Some were from my own gallery as I was part of the publicity department in Bowen Military Band where my role was to take pictures of the band and update the social media pages to promote the band.</li>
+Some of the photos used in this site were obtained from Bowen Military Band's instagram pages.
+<br>Some were from my own gallery as I was part of the publicity department in Bowen Military Band where my role was to take pictures of the band and update the social media pages to promote the band.
 
 <h2>Acknowledgements</h2>
 I received inspiration for this project from myself, I was a member of the bowen military band and i thought it would be interesting to create a webpage to promote the band since i was given the role to promote the band before.
