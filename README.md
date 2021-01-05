@@ -16,7 +16,7 @@ As a fan or potential fan, I who wish to learn more about the band's history and
 <li>Youtube Video - allows fans/visitors to play the video on the webpage to view 1 of the band's performance.</li>
 <li>Social media icons - Allows fans/visitors to click on the social media icons to visit the various social media pages of the band.</li>
 
-</h2>Features Left to Implement</h2>
+<h2>Features Left to Implement</h2>
 
 Slideshow of Images - I can possibly add a slideshow of pictures taken during the band's various performances.
 
